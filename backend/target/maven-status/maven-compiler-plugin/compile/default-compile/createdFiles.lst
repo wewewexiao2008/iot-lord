@@ -1,0 +1,15 @@
+com\example\demo\DemoApplication.class
+com\example\demo\mapper\DevicesMapper.class
+com\example\demo\domain\PageObject.class
+com\example\demo\mapper\HistorylogMapper.class
+com\example\demo\service\UserService.class
+com\example\demo\domain\Historylog.class
+com\example\demo\CORSConfiguration.class
+com\example\demo\domain\Devices.class
+com\example\demo\serviceImpl\UserServiceImpl.class
+com\example\demo\domain\User.class
+com\example\demo\mybatis\MybatisApplication.class
+com\example\demo\mybatis\MybatisApplicationTest.class
+com\example\demo\controller\UserController.class
+com\example\demo\domain\ResultObject.class
+com\example\demo\mapper\UserMapper.class
