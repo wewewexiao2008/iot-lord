@@ -1,3 +1,5 @@
+项目没有进行清理，有一些已经废弃的js文件
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
